@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm KOTTAPALLI DEEPAK VARMA</h1>
 <h3 align="center">A passionate student from India</h3>
 
+- 🔭 I’m currently working on **Personal project**
+
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
